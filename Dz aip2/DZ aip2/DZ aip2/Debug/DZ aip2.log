@@ -1,0 +1,3 @@
+﻿  DZ aip2.cpp
+C:\dz\Dz aip2\DZ aip2\DZ aip2\DZ aip2.cpp(176,34): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  DZ aip2.vcxproj -> C:\dz\Dz aip2\DZ aip2\Debug\DZ aip2.exe
