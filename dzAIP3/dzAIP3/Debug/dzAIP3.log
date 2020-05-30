@@ -1,0 +1,3 @@
+﻿  dzAIP3.cpp
+C:\dz\dzAIP3\dzAIP3\dzAIP3.cpp(207,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  dzAIP3.vcxproj -> C:\dz\dzAIP3\Debug\dzAIP3.exe
