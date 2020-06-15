@@ -1,0 +1,5 @@
+﻿  dz4.cpp
+C:\dz\dz4\dz4\dz4.cpp(472,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\dz\dz4\dz4\dz4.cpp(595,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\dz\dz4\dz4\dz4.cpp(607,22): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  dz4.vcxproj -> C:\dz\dz4\Debug\dz4.exe
